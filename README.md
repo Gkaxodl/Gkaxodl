@@ -6,9 +6,11 @@ I enjoy working with real-world datasets, exploring patterns, and communicating 
 
 ## 🛠️ Skills
 
-* **Languages:** Python, SQL, R
+* **Languages:** Python, R, SQL
 * **Data Analysis:** Pandas, NumPy, Statistical Analysis
-* **Data Visualization:** Matplotlib, Tableau
+* **Data Visualization:** Matplotlib, Plotly, Tableau
+* **Dashboards:** Streamlit, Shiny
+* **Databases & Query Languages:** Neo4j, Cypher, SQL
 * **Tools:** Jupyter Notebook, Git, GitHub
 
 ## 📊 What I'm Working On
