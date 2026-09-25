@@ -1,31 +1,28 @@
-# Hi, I'm Andrew Ham 👋
+# Hi, I'm Tae Yi Ham
 
-I'm a Data Science graduate from The George Washington University interested in data analytics, business intelligence, and using data to solve practical problems.
+**Data Science & Political Science @ The George Washington University**
 
-I enjoy working with real-world datasets, exploring patterns, and communicating findings through clear analysis and visualization.
+I'm interested in **Data Analytics, Research Analytics, and Data Visualization**. I enjoy working with real-world data to explore questions about people, markets, and society — and communicating the results clearly.
 
-## 🛠️ Skills
+## Selected Work
 
-* **Languages:** Python, R, SQL
-* **Data Analysis:** Pandas, NumPy, Statistical Analysis
-* **Data Visualization:** Matplotlib, Plotly, Tableau
-* **Dashboards:** Streamlit, Shiny
-* **Databases & Query Languages:** Neo4j, Cypher, SQL
-* **Tools:** Jupyter Notebook, Git, GitHub
+- **Higher Education Outcomes Analysis** — College Scorecard, regression, exploratory analysis *(ongoing)*
+- **Global Beauty Spending Analysis** — R, Shiny, ggplot2, cross-country consumer analysis
+- **Coca-Cola & Pepsi Stock Price and Public Sentiment Analysis** — Python, sentiment analysis, Streamlit
+- **Spotify Music Graph Analysis** — Neo4j, Cypher, graph databases
+- **World Happiness Analysis** — R, correlation analysis, linear regression
 
-## 📊 What I'm Working On
+## Tools & Methods
 
-* Analyzing college completion, cost, and post-graduation earnings using College Scorecard and IPEDS data
-* Building data analysis and visualization projects using real-world datasets
-* Strengthening my SQL and business intelligence skills
+**Python · SQL · R · Neo4j · Cypher**  
+Statistical Analysis · Data Cleaning · Data Visualization · Market Research · Consumer Research
 
-## 🎯 Interests
+## Currently
 
-* Data Analytics
-* Business Intelligence
-* Data Visualization
-* Applied Data Science
+- Completing my B.S. double major in **Data Science and Political Science** at GWU
+- Developing a higher-education analytics capstone using College Scorecard data
+- Building a portfolio for **Data Analyst and Research Analyst** opportunities
 
-## 📫 Connect With Me
+## Connect
 
-[LinkedIn](https://www.linkedin.com/in/taeyi-ham/)
+[LinkedIn](https://www.linkedin.com/in/taeyi-ham/) · [GitHub](https://github.com/Gkaxodl)
